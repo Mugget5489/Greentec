@@ -1,0 +1,7 @@
+{
+  "schema": "greentec.facility.public.v1",
+  "status": "unconfigured",
+  "facilityId": null,
+  "name": null,
+  "notes": "Populate from GREENTEC Studio. Do not place secrets in this public file."
+}
