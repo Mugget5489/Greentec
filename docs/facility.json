@@ -1,7 +1,26 @@
 {
-  "schema": "greentec.facility.public.v1",
-  "status": "unconfigured",
-  "facilityId": null,
-  "name": null,
-  "notes": "Populate from GREENTEC Studio. Do not place secrets in this public file."
+  "format": "GREENTEC_FACILITY_DIRECTORY_V1",
+  "facilityId": "6b10415d-abbf-4a8e-b194-7ec9f07bf21e",
+  "facilityName": "GREENTEC facility",
+  "generatedAt": "2026-09-14T07:42:13.337Z",
+  "nodes": [
+    {
+      "id": "71a0d313-88f4-4779-a6a1-d36e4fa04f4e",
+      "name": "CORE-3",
+      "type": "core",
+      "computerId": "0",
+      "location": "",
+      "access": "CONTROL",
+      "display": "AUTO"
+    },
+    {
+      "id": "2ce89be7-5d88-4f8c-b3a0-3308f01ea4e5",
+      "name": "DEPOT-01",
+      "type": "depot",
+      "computerId": "1",
+      "location": "DEPOT",
+      "access": "CONTROL",
+      "display": "HEADLESS"
+    }
+  ]
 }

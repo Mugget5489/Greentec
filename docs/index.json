@@ -1,8 +1,9 @@
 {
-  "schema": "greentec.repository.v1",
-  "repository": "GREENTEC",
+  "format": "GREENTEC_REPOSITORY_V1",
+  "facilityId": "6b10415d-abbf-4a8e-b194-7ec9f07bf21e",
+  "facilityName": "GREENTEC facility",
+  "generatedAt": "2026-09-14T07:42:13.336Z",
   "latest": null,
-  "stable": null,
   "releases": [],
-  "facilities": []
+  "bootstrapBase": "bootstrap"
 }
